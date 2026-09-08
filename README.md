@@ -29,7 +29,7 @@ Django-based music application with REST API functionality, database integration
 
 **Tech:** Python · Django
 
-### Parallel computing histogram optimisation
+### Parallel Computing Histogram Optimisation
 
 CUDA/C++ GPU-accelerated histogram program for analysing numerical datasets and calculating data distributions.
 
