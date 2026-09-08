@@ -25,19 +25,22 @@ Git · GitHub · REST APIs · Linux
 
 ### 🎵 Dottify
 
-A Python-based project focused on managing ablums and songs. 
+Django-based music application with REST API functionality, database integration, and automated testing.
 
 **Tech:** Python · Django
 
+### Parallel computing histogram optimisation
+
+CUDA/C++ GPU-accelerated histogram program for analysing numerical datasets and calculating data distributions.
+
 ### 🎬 FlickFinderAPI
 
-A Java project focused on using a RESTful API to explore a movie database. 
-
+Java REST API for querying a movie database, using SQLite with automated unit and API testing.
 **Tech:** Java · REST API 
 
 ### 🔐 MorseDecoder
 
-A project that implements a Morse Code decoder, interpreting inputs and output. 
+Embedded C Morse code decoder using button input, timing-based dot/dash detection, and a seven-segment display.
 
 **Tech:** RaspberryPi · C
 ---
